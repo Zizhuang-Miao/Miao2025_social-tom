@@ -17,6 +17,7 @@ Additional packages needed will be mentioned where necessary.
 Below is a high-level overview of the naming and functions of the scripts in this repo:
 
 + `stimuli`: The audios and texts of narratives used in the experiments; each .wav and .txt file was used in one trial. Additionally, `all_narratives` contains the text documents for each of the eight narratives. Note that there are two more audio files than text files, which were used in the practice trials of the online experiment.
++ `data_behavior`: The raw data and preprocessed data after participant exclusions (preprocessed data in folders ending with `onlineratings`). It also contains the consensus annotations from four researchers on social interactions and theory of mind demands (in folders ending with `annations`).
 + `exp_online`: The scripts, condition files, additional stimuli, and dependencies (PsychJS) needed to run the online experiment on Pavlovia.org.
 + `exp_fmri`: The scripts and condition file used to run the experiment during fMRI scanning. Note that Psychtoolbox (MATLAB) is needed to run the scripts.
 + `analysis_behavior`: Scripts used to analyze online participants' rating data and experimenters' annotations. 
