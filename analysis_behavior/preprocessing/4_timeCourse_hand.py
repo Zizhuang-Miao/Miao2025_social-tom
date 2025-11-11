@@ -1,4 +1,4 @@
-# Generate time course of hand annotations for social interactions
+# Generate time course of manual annotations
 # Zizhuang Miao
 
 # This script can resample the time course of experimenters' annotations for social interactions and theory of mind demands into the same resolution as the online participants' ratings -- 230 ms
