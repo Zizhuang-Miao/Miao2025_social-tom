@@ -2,6 +2,8 @@
 
 Zizhuang Miao
 
+[![DOI](https://zenodo.org/badge/902574045.svg)](https://doi.org/10.5281/zenodo.18315908)
+
 This repo hosts the codes and behavioral data accompanying the article titled "Common and distinct neural correlates of social interaction processing and theory of mind in narratives". Readers should be able to use and adpat these codes to replicate experiments, analyses, and results.
 
 ## Software dependency
